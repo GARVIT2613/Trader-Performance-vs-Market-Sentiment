@@ -6,7 +6,8 @@
 
 ## 🧠 Executive Summary
 
-This project analyzes how **market sentiment (Fear vs Greed)** impacts **trader behavior, performance, and risk-taking patterns** on Hyperliquid.
+This project analyzes how **market sentiment (Fear vs Greed)** impacts **trader behavior, performance, and risk-taking patterns** on Hyperliquid.  
+This project demonstrates how sentiment-driven analytics can be transformed into automated trading decision systems.  
 
 A robust analytical pipeline was developed to:
 
@@ -307,5 +308,5 @@ Integrating sentiment into trading strategies enables:
 
 ## 👨‍💻 Author
 
-**Garvit Mehta**
+**Garvit Mehta**  
 B.Tech CSE | Data Analytics & Business Intelligence Enthusiast
