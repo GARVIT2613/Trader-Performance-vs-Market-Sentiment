@@ -48,7 +48,3 @@
 
 ---
 
-### 📦 Saved Outputs
-
-* `outputs/charts/` → All generated visualizations
-* `outputs/tables/` → Aggregated datasets and analysis tables
