@@ -17,6 +17,58 @@
 
 ---
 
+## 📋 Output Tables
+
+### 1. Sentiment-wise Performance
+
+| Column           | Description                     |
+| ---------------- | ------------------------------- |
+| `classification` | Market sentiment (Fear / Greed) |
+| `daily_pnl`      | Total profit/loss per day       |
+| `win_rate`       | Ratio of profitable trades      |
+| `trade_count`    | Number of trades                |
+| `leverage`       | Average leverage                |
+| `long_ratio`     | Proportion of long trades       |
+
+---
+
+### 2. Daily Metrics
+
+| Column           | Description          |
+| ---------------- | -------------------- |
+| `date`           | Trading date         |
+| `classification` | Market sentiment     |
+| `daily_pnl`      | Daily aggregated PnL |
+| `win_rate`       | Daily win rate       |
+| `trade_count`    | Trades per day       |
+| `leverage`       | Average leverage     |
+| `long_ratio`     | Long/short ratio     |
+
+---
+
+### 3. Leverage Segment Analysis
+
+| Column           | Description         |
+| ---------------- | ------------------- |
+| `leverage_group` | High / Low leverage |
+| `classification` | Market sentiment    |
+| `closed_pnl`     | Average PnL         |
+| `win`            | Win rate            |
+
+---
+
+### 4. Frequency Segment Analysis
+
+| Column           | Description                  |
+| ---------------- | ---------------------------- |
+| `segment`        | Frequent / Infrequent trader |
+| `classification` | Market sentiment             |
+| `closed_pnl`     | Average PnL                  |
+| `trade_count`    | Number of trades             |
+
+---
+
+
 ### 📈 Visualizations
 
 #### 🔹 Core Analysis
