@@ -1,6 +1,5 @@
 # 📊 Trader Performance vs Market Sentiment Analysis
 
-**Data Science Intern Assignment – Primetrade.ai**
 
 ---
 
